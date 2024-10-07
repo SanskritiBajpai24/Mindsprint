@@ -1,0 +1,48 @@
+body {
+    background-color: beige; /* Light pastel background */
+    color: navy; /* Dark grey for body text */
+}
+header {
+    background-color: lightsalmon; /* Pastel green header */
+    color: antiquewhite;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.timer{
+    margin: 20px 0;
+}
+#time{
+    font-size: 3rem;
+}
+.carousel-item{
+    text-align: center;
+    padding: 20px;
+}
+
+.nav-item{
+    font-size: 1.25rem;
+    color: chocolate;
+    font-style: normal;
+   
+}
+
+.header{
+    font-style: italic;
+    color: black;
+}
+.section id h2{
+    font-size: 2rem;
+    color: beige;
+
+}
+.h1{
+    color: violet;
+}
+.title{
+    color: bisque;
+    font-style: italic;
+}
